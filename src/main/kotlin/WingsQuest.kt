@@ -1,3 +1,7 @@
+/**
+ * @link https://exercism.org/tracks/swift/exercises/wings-quest
+ */
+
 fun wingsQuest() {
     //1. Define if bird gets bonus points
     println(bonusPoints(false, false))
