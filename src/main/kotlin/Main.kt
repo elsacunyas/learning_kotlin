@@ -1,3 +1,4 @@
 fun main() {
-    lasagna()
+    //lasagna()
+    wingsQuest()
 }
